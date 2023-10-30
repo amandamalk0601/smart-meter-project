@@ -146,7 +146,7 @@ This project makes use of the following repositories:
 
 - [AI-on-the-edge](https://github.com/jomjol/AI-on-the-edge-device)
   - By: jomjol
-  - Description: This project was flashed onto an ESP32CAM to obtain real meter readings.
+  - Description: This project is not available on this repository, it was flashed onto an ESP32CAM to obtain real meter readings as part of the "Guide to Run Scenario with ESP32CAM Transmitting Data".
 
 - [mqtt-to-kafka-bridge](https://github.com/nodefluent/mqtt-to-kafka-bridge)
   - By: nodefluent
