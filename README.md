@@ -1,7 +1,7 @@
 # Testing Smart Meter System Design
 
 ## Overall Requirements
-- Download and install Apache Flink [Version 1.17.0](https://flink.apache.org/downloads/)
+- Download and install Apache Flink Version [1.17.0](https://flink.apache.org/downloads/)
 - Download and install Apache Kafka Version [3.4.0](https://kafka.apache.org/downloads)
 - Java 11
 ## Prerequisites
